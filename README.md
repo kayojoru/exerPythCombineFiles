@@ -53,13 +53,13 @@ The HL7 v3 specification exists, but it's not widely adopted. (Complexity is a b
 
 ## Summary of steps to complete
 
-- [ ] Fork this repository so you have your own copy to work on.
-- [ ] Clone the repository on your local machine. 
-- [ ] Open the repository Jupyter Notebook in VSCode or Jupyter Notebooks.
-- [ ] Add the code shown in this video to your Jupyter Notebook.
-- [ ] Push your updated file to your GitHub repository.
-- [ ] Answer assignment questions and submit a link to this GitHub repository in Canvas.
-- [ ] Remove your virtual environment from Jupyter Notebooks and from your machine.
+- [x] Fork this repository so you have your own copy to work on.
+- [x] Clone the repository on your local machine. 
+- [x] Open the repository Jupyter Notebook in VSCode or Jupyter Notebooks.
+- [x] Add the code shown in this video to your Jupyter Notebook.
+- [x] Push your updated file to your GitHub repository.
+- [x] Answer assignment questions and submit a link to this GitHub repository in Canvas.
+- [x] Remove your virtual environment from Jupyter Notebooks and from your machine.
 
 ## Fork & Clone this repository
 
